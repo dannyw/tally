@@ -9,3 +9,8 @@ A bookmarklet to calculate our point efforts on Basecamp.
 ```
 javascript:var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('src','https://dl.dropboxusercontent.com/u/180488/hacking/tally.js');document.body.appendChild(e);void(0);
 ```
+
+
+To use, simply highlight any blocks of TODOs on a Basecamp project. Items that are preceded with brackets and a point value will be calculated. If you are highlighting a completed set of todos, it will breakdown points by person. Example to test your bookmarklet: 
+
+[10] Highlight me and click Tally. It should show 10 points! 
