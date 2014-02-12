@@ -11,6 +11,4 @@ javascript:var e=document.createElement('script');e.setAttribute('language','jav
 ```
 
 
-To use, simply highlight any blocks of TODOs on a Basecamp project. Items that are preceded with brackets and a point value will be calculated. If you are highlighting a completed set of todos, it will breakdown points by person. Example to test your bookmarklet: 
-
-[10] Highlight me and click Tally. It should show 10 points! 
+To use, simply highlight any blocks of TODOs on a Basecamp project. Items that are preceded with brackets and a point value will be calculated. If you are highlighting a completed set of todos, it will breakdown points by person. 
